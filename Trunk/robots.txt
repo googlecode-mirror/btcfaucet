@@ -1,0 +1,7 @@
+# BTCFaucet Project
+# This site is powered by the BTCFaucet Project
+# ==============================================
+# Domo Arigato, Mr. Roboto
+
+User-agent: *
+Allow: /
